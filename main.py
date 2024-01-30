@@ -60,5 +60,5 @@ def main():
     print(q10.question10_9())     
     print(q10.question10_10())     
 
-if _name=='__main__':
+if __name__=='__main__':
     main()
