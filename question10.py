@@ -21,7 +21,8 @@ def question10_5():
     return answer
 
 def question10_6():
-    answer=False     return answer 
+    answer=False     
+    return answer 
 
 def question10_7():
     answer=True 
