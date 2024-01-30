@@ -24,24 +24,24 @@ def question10_6():
     answer=False     return answer 
 
 def question10_7():
-    answer=True # g
+    answer=True 
     # well if cosine measure is 1, that indicates the 2 vectors are parallel to each other, which means
     # both are identical to each other.
     return answer 
 
 def question10_8():
-    answer=False # h
+    answer=False 
     # Its not always true, there are cases for example, if a person own 10(but not 10.5) cars, 
     #it can be discrete and ratio (can own 0 cars)
     return answer  
 
 def question10_9():
-    answer=False  # i
+    answer=False  
     # Yes quantitative variables talk about the quantity, but not necessarily the quantity needs to be continuous.
     # cases like 10 kg, 100 meters often come under discrete, but not continuous.
     return answer   
 
 def question10_10():
-    answer=False # j
+    answer=False 
     # not necessarily, because we will lose the order associated between the values. 
     return answer
